@@ -24,7 +24,7 @@ background.
 
 ```bash
 # Clone the repository
-git clone https://github.com/KillianPan/zero-coupon-curve-bootstrapping.git
+git clone https://github.com/killianpan/zero-coupon-curve-bootstrapping.git
 cd zero-coupon-curve-bootstrapping
 
 # Install Python dependencies
